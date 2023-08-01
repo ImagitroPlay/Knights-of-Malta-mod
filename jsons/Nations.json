@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Malta",
+		"leaderName": "Raymond de Puy",
+		"adjective": ["Maltian"],
+		
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta",
+		"startIntroPart2": ".",
+		
+		"declaringWar": "Your lands will soon be mine, prepare for war!",
+		"attacked": "Have you declared war on us? This was a huge mistake on your part, prepare to be destroyed!",
+		"defeated": "You have destroyed our once great civilization. History will not look kindly upon you.",
+		"introduction": "Greetings!Welcome to Holy Lands of Malta.",
+		
+		"neutralHello": "Hello!",
+		"hateHello": "You again! What did you want?",
+		"tradeRequest": "Well, how is my proposal to you?",
+		
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		
+		"favoredReligion": "Christianity",
+		
+		"uniqueName": "Deus Vult",
+		"uniques": ["[Land] units gain the [Crusader] promotion"],
+		"cities": [
+			"Valette",
+			"Jerusalem",
+			"Genoa",
+			"Venice",
+			"Florence",
+                        "Rhodes"
+		],
+	},
+]

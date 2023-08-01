@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Castle of Hospitallers",
+		"replaces": "Castle",
+		"cost": 175,
+		"uniqueTo": "Malta",
+		"cityStrength": 15,
+		"cityHealth": 20,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Currency",
+		"uniques": ["[+1 Gold] from [Coast] tiles in this city"],
+	},  
+		{
+		"name": "Catholic Church",
+         "replaces": "Temple",
+		"uniqueTo": "Malta", 
+		"hurryCostModifier": 25,
+       	"cost": 115,
+		"faith": 1,
+		"maintenance": 2,
+		"requiredTech": "Philosophy"
+		"uniques": ["[+1 Faith] from [Coast] tiles in this city","[+1 Culture] from [Coast] tiles in this city"],
+	},
+]
+		

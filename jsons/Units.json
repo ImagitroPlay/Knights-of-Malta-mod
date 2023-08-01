@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Maltian Knight",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Malta",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Consumes [1] [Horses]", "Consumes [1] [Iron]","[+25]% Strength <when fighting in [Desert] tiles>", "Can move after attacking","[+10]% Strength <vs cities>"],
+		"attackSound": "metalhit"
+	},
+]
